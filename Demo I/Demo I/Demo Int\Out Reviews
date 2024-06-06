@@ -1,0 +1,42 @@
+
+Review	Liked
+0	Wow... Loved this place.	1
+1	Crust is not good.	0
+2	Not tasty and the texture was just nasty.	0
+3	Stopped by during the late May bank holiday of...	1
+4	The selection on the menu was great and so wer...	1
+...	...	...
+995	I think food should have flavor and texture an...	0
+996	Appetite instantly gone.	0
+997	Overall I was not impressed and would not go b...	0
+998	The whole experience was underwhelming, and I ...	0
+999	Then, as if I hadn't wasted enough of my life ...	0
+1000 rows × 2 columns
+
+
+Review	Liked
+0	Wow... Loved this place.	1
+1	Crust is not good.	0
+2	Not tasty and the texture was just nasty.	0
+3	Stopped by during the late May bank holiday of...	1
+4	The selection on the menu was great and so wer...	1
+
+
+Review	Liked
+995	I think food should have flavor and texture an...	0
+996	Appetite instantly gone.	0
+997	Overall I was not impressed and would not go b...	0
+998	The whole experience was underwhelming, and I ...	0
+999	Then, as if I hadn't wasted enough of my life ...	0
+
+#Statistics
+
+Liked
+count	1000.00000
+mean	0.50000
+std	0.50025
+min	0.00000
+25%	0.00000
+50%	0.50000
+75%	1.00000
+max	1.00000
