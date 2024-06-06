@@ -1,5 +1,7 @@
 # Sentiment_Analaysis_With_ML
 
+#This analysis often involves categorizing feedback, quantifying sentiments, and extracting actionable insights, enabling businesses to make data-driven decisions, enhance customer satisfaction, and drive continuous improvement.
+
 # Problem statement
 
 #Develop sentiment analysis model to classify restaurant reviews as positive or negative.
@@ -14,7 +16,7 @@
 
 Some Demo Images are
 
-# Analyzing with bar charts
+# Analyzing with bar charts and Word maps
 ![Sentiment Analysis Demo](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/f47da497-6bb1-4767-995f-7ba802993c20)
 ![Sentiment](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/1f6ac82d-dc06-45f4-87bc-37f06670d9bf)
 ![S A](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/c4d23201-0d01-4419-8474-e723b23e89d5)
