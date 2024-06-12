@@ -17,7 +17,6 @@
 Some Demo Images are
 
 # Analyzing with Bar charts and Word maps
-![Sentiment Analysis Demo](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/f47da497-6bb1-4767-995f-7ba802993c20)
 
 ![Sentiment](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/1f6ac82d-dc06-45f4-87bc-37f06670d9bf)
 
