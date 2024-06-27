@@ -18,6 +18,8 @@ Some Demo Images are
 
 # Analyzing with Bar charts and Word maps
 
+![image](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/9e0be9c0-6895-4f44-bbc7-200d7cd403a9)
+
 ![Sentiment](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/1f6ac82d-dc06-45f4-87bc-37f06670d9bf)
 
 ![S A](https://github.com/psankarmidhil/Sentiment_Analaysis_With_ML/assets/111223199/c4d23201-0d01-4419-8474-e723b23e89d5)
