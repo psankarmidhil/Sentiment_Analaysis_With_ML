@@ -14,7 +14,7 @@
 
 #Analaysing the sentiment of these reviews can provide the valuable insights into customer satisfaction.
 
-Some Demo Images are
+------Some Demo Images are here for preview-----
 
 # Analyzing with Bar charts and Word maps
 
