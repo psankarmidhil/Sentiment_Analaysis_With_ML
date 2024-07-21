@@ -1,4 +1,4 @@
-# Sentiment_Analaysis_With_ML
+# Sentiment_Analysis_With_ML
 
 #This analysis often involves categorizing feedback, quantifying sentiments, and extracting actionable insights, enabling businesses to make data-driven decisions, enhance customer satisfaction, and drive continuous improvement.
 
